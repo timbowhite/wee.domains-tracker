@@ -3,4 +3,4 @@ Tracking the new features, bugs, and general development of [wee.domains](https:
 
 Click on the [Issues tab](https://github.com/timbowhite/wee.domains-tracker/issues) above to see the entire list.
 
-Visit [Milestone #1](https://github.com/timbowhite/wee.domains-tracker/milestone/1) to view features set to be added by 202-03-01.
+Visit [Milestone #1](https://github.com/timbowhite/wee.domains-tracker/milestone/1) to view features set to be added by 2020-03-01.
