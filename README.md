@@ -1,2 +1,2 @@
 # wee.domains-tracker
-Tracking the new features, bugs, and general development of wee.domains.
+Tracking the new features, bugs, and general development of [wee.domains](https://wee.domains).
